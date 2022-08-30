@@ -12,4 +12,4 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJebw46S
 
 ## Semana 3: Solución numérica de problemas de baja dimensionalidad
 
-+ Método del disparo: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/master/notebooks/es_SolucionNumericaMetodoDisparo1D.ipynb).
++ Método del disparo: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/master/notebooks/es_SolucionNumericaMetodoDisparo1D.ipynb), [video](https://youtu.be/MvI0AC8jCks).
