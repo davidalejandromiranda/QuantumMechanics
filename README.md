@@ -10,6 +10,10 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJebw46S
 ---
 # Mecánica Cuántica: Pregrado
 
+## Semana 1: Ondas y partículas, introducción a las ideas fundamentales de la mecánica cuántica
+
++ Paquete de onda: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/master/notebooks/es_PaqueteDeOnda.ipynb)
+
 # Mecánica Cuántica Avanzada: Posgrado
 
 ## Semana 3: Solución numérica de problemas de baja dimensionalidad
