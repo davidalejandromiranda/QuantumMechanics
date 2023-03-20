@@ -8,7 +8,7 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJebw46S
 
 ---
 ---
-# Mecánica Cuántica: Pregrado
+# Mecánica Cuántica
 
 ## Ondas y partículas, introducción a las ideas fundamentales de la mecánica cuántica
 
