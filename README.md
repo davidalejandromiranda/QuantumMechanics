@@ -14,7 +14,7 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJebw46S
 
 + Paquete de onda: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_PaqueteDeOnda.ipynb)
 
-+ Pozo de potencial finito: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_PozoPotencialFinito_EnConstruccion.ipynb)
++ Pozo de potencial finito: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_PozoPotencialFinito.ipynb)
 
 ## Solución numérica de problemas de baja dimensionalidad
 
