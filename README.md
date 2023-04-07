@@ -14,8 +14,10 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJebw46S
 
 + Paquete de onda: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_PaqueteDeOnda.ipynb)
 
+## Solución numérica de problemas de baja dimensionalidad
+
 + Pozo de potencial finito: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_PozoPotencialFinito.ipynb)
 
-## Solución numérica de problemas de baja dimensionalidad
++ Oscilador armónico en un pozo de potencial infinito: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_OsciladorArmonicoEnPozoPotencialInfinito.ipynb).
 
 + Método del disparo: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_SolucionNumericaMetodoDisparo1D.ipynb), [video](https://youtu.be/MvI0AC8jCks).
