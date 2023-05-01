@@ -21,3 +21,7 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJebw46S
 + Oscilador armónico en un pozo de potencial infinito: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_OsciladorArmonicoEnPozoPotencialInfinito.ipynb).
 
 + Método del disparo: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_SolucionNumericaMetodoDisparo1D.ipynb), [video](https://youtu.be/MvI0AC8jCks).
+
+## Qubits y sistemas en espacio de Hilbert con dimensión dos
+
++ Medición de un observable y evolución temporal de un sistema en un espacio de Hilbert de dimensión dos, qubit: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_EvolucionTemporalQubit.ipynb)
