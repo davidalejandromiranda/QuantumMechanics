@@ -24,4 +24,4 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJebw46S
 
 ## Qubits y sistemas en espacio de Hilbert con dimensión dos
 
-+ Medición de un observable y evolución temporal de un sistema en un espacio de Hilbert de dimensión dos, qubit: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_EvolucionTemporalQubit.ipynb)
++ Medición de un observable y evolución temporal del estado de un sistema en un espacio de Hilbert de dimensión dos, qubit: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_EvolucionTemporalQubit.ipynb)
