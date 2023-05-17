@@ -20,6 +20,8 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJebw46S
 
 + Oscilador armónico en un pozo de potencial infinito: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_OsciladorArmonicoEnPozoPotencialInfinito.ipynb).
 
++ Oscilador armónico cuántico unidimensional: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_OsciladorArmonico1D.ipynb)
+
 + Método del disparo: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_SolucionNumericaMetodoDisparo1D.ipynb), [video](https://youtu.be/MvI0AC8jCks).
 
 ## Qubits y sistemas en espacio de Hilbert con dimensión dos
