@@ -14,6 +14,14 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJebw46S
 
 + Paquete de onda: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_PaqueteDeOnda.ipynb).
 
+## Qubits y sistemas en espacio de Hilbert con dimensión dos
+
++ Estado y mediciones en sistema con una partícula cuyo espín es 1/2 y pertenece a un espacio de Hilbert de dimensión dos: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_SistemaEspinUnMedioMedidas.ipynb).
+
++ Medición de un observable y evolución temporal del estado de un sistema en un espacio de Hilbert de dimensión dos (qubit): [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_EvolucionTemporalQubit.ipynb).
+
++ Modelado de la medición cuántica con un qubit empleando la esfera de Bloch y argumentos geométricos: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_ProbabilidadMedidaQubit.ipynb).
+
 ## Solución numérica de problemas de baja dimensionalidad
 
 + Método del disparo: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_SolucionNumericaMetodoDisparo1D.ipynb), [video](https://youtu.be/MvI0AC8jCks).
@@ -23,11 +31,3 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJebw46S
 + Oscilador armónico cuántico unidimensional: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_OsciladorArmonico1D.ipynb).
 
 + Pozo de potencial finito: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_PozoPotencialFinito.ipynb).
-
-## Qubits y sistemas en espacio de Hilbert con dimensión dos
-
-+ Estado y mediciones en sistema con una partícula cuyo espín es 1/2 y pertenece a un espacio de Hilbert de dimensión dos: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_SistemaEspinUnMedioMedidas.ipynb).
-
-+ Medición de un observable y evolución temporal del estado de un sistema en un espacio de Hilbert de dimensión dos (qubit): [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_EvolucionTemporalQubit.ipynb).
-
-+ Modelado de la medición cuántica con un qubit empleando la esfera de Bloch y argumentos geométricos: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_ProbabilidadMedidaQubit.ipynb).
