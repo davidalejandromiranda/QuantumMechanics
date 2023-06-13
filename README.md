@@ -31,3 +31,7 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJebw46S
 + Oscilador armónico cuántico unidimensional: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_OsciladorArmonico1D.ipynb).
 
 + Pozo de potencial finito: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_PozoPotencialFinito.ipynb).
+
+## Momento angular orbital y el átomo de hidrógeno
+
++ Momento angular orbital y armónicos esféricos: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_MomentoAngularOrbitalArmonicosEsfericos.ipynb).
