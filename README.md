@@ -35,3 +35,5 @@ En el [canal de YouTube](https://www.youtube.com/playlist?list=PLQcmiXk5CJebw46S
 ## Momento angular orbital y el átomo de hidrógeno
 
 + Momento angular orbital y armónicos esféricos: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_MomentoAngularOrbitalArmonicosEsfericos.ipynb).
+
++ El átomo de hidrógeno: [colab](https://colab.research.google.com/github/davidalejandromiranda/QuantumMechanics/blob/main/notebooks/es_Hidrogeno.ipynb).
